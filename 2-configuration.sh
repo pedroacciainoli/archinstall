@@ -118,7 +118,7 @@ cp /archinstall/4-zram.sh /home/$username
 cp /archinstall/5-timeshift.sh /home/$username
 cp /archinstall/6-preload.sh /home/$username
 cp /archinstall/snapshot.sh /home/$username
-cp /archinstall/hyprdots /home/$username
+
 
 clear
 echo "     _                   "
@@ -136,3 +136,4 @@ echo "- preload application cache: 6-preload.sh"
 echo ""
 echo "Please exit & shutdown (shutdown -h now), remove the installation media and start again."
 echo "Important: Activate WIFI after restart with nmtui."
+echo "https://github.com/pedroacciainoli/hyprdots.git" 
