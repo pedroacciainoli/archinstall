@@ -41,7 +41,7 @@ pacman -Syy
 pacman -S git
 
 # Clonar instalação
-git clone https://gitlab.com/stephan-raabe/archinstall.git
+git clone https://github.com/pedroacciainoli/archinstall
 cd archinstall
 
 # Iniciar o script
